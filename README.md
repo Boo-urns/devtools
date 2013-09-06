@@ -1,22 +1,7 @@
-#Save files to disk in Chrome DevTools
+##How to Save files to disk in Chrome DevTools
 
-***Note: You will need a local server running on your machine!***
-
-##Mac Users
-The easiest way to setup a local server is with MAMP. 
-(I prefer to use XAMPP. Note: There is more setup.)
-
-##Window Users
-I believe the best option is XAMPP
-* * * 
-
-Once your local server is running and you have the example files setup.
-* * * 
-
-###Open DevTools
-* Open index.html using your local server. _Not file protocol_
-* Open DevTools
-	+ Many options to open DevTools
+####Open DevTools
+* Many options to open DevTools
 	+ View > Developer Tools > Developer Tools
 	+ Right click / inspect element
 	+ *Mac* - Cmd + Opt + I
