@@ -1,5 +1,8 @@
 ##How to Save files to disk in Chrome DevTools
 
+####Download or clone this repo
+Open index.html in Chrome
+
 ####Open DevTools
 * Many options to open DevTools
 	+ View > Developer Tools > Developer Tools
